@@ -13,3 +13,4 @@ Simple &amp; Multiple  Linear Regression Algorithm Coding
 
 
 <img src="https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/38_blog_image_1.png" alt="Hello world">
+<img src="https://av-eks-blogoptimized.s3.amazonaws.com/40561Ready-Mix-Concrete-Price-List.png" alt="Hello world">
