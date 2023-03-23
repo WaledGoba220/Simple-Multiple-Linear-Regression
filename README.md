@@ -19,3 +19,4 @@ Simple &amp; Multiple  Linear Regression Algorithm Coding
 <img src="https://av-eks-blogoptimized.s3.amazonaws.com/40561Ready-Mix-Concrete-Price-List.png" alt="Hello world">
 
 
+
