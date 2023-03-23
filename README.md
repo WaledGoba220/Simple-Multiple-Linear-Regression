@@ -16,7 +16,9 @@ Simple &amp; Multiple  Linear Regression Algorithm Coding
 
 <br>
 
-<img src="https://av-eks-blogoptimized.s3.amazonaws.com/40561Ready-Mix-Concrete-Price-List.png" alt="Hello world">
+<img src="https://www.upgrad.com/blog/wp-content/uploads/2020/10/Untitled-5.jpg" alt="Hello world">
+
+
 
 
 
